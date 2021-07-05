@@ -1,7 +1,8 @@
 <style type="text/css">
-<!--
-body{
-background: url(images/<?php echo $selectedBg; ?>) no-repeat;
+
+
+.responsive-image {
+  height: auto;
+  width: 100%;
 }
--->
 </style>
