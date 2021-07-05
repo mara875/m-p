@@ -1,8 +1,24 @@
 <style type="text/css">
 
+.body {
+  font-family: calibri, verdana, sans-serif;
+}
 
 .responsive-image {
   height: auto;
   width: 100%;
 }
+  
+  
+  .container {
+  width: 50%;
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: baseline;
+  font-family: 'Open Sans';
+}
+
 </style>
