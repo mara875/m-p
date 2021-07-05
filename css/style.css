@@ -7,6 +7,8 @@
 .responsive-image {
   height: auto;
   width: 100%;
+  align= center
+  display = flex
 }
   
   
