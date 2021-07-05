@@ -1,7 +1,7 @@
 <style type="text/css">
 
 .body {
-  font-family: tisa, calibri, verdana, sans-serif;
+  font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
 }
 
 .responsive-image {
@@ -21,7 +21,7 @@
   justify-content: center;
   flex-wrap: wrap;
   align-items: baseline;
-  font-family: 'Tisa';
+  font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
 }
 
 </style>
