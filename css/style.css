@@ -4,8 +4,9 @@ body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
   align: center;
   display: flex;
-	color:#485365;
-	margin:0px;
+  color:#485365;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 a {
@@ -24,8 +25,8 @@ a {
 .container {
   width: 60%;
   color:#485365;
-  max-width: 720px;
-  margin: 10% 20% 10% 20%;
+  margin-left: auto;
+  margin-right:auto;
   align: center;
   display: flex;
   justify-content: center;
