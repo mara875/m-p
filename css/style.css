@@ -2,15 +2,16 @@
 
 .body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
-  align = center
-  display=flex
+  align = center;
+  display=flex;
+  font-color: #a9a9a9;
 }
 
 .responsive-image {
   height: auto;
   width: 100%;
-  align= center
-  display = flex
+  align= center;
+  display = flex;
 }
   
   
@@ -20,6 +21,7 @@
   margin: 10% 20% 10% 20%;
   align: center
   display: flex;
+  font-color : #a9a9a9
   justify-content: center;
   flex-wrap: wrap;
   align-items: baseline;
