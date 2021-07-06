@@ -15,6 +15,8 @@ a {
 .responsive-image {
   height: auto;
   width: 80%;
+  margin-left: auto;
+  margin-right:auto;
   align: center;
   display: flex;
 }
