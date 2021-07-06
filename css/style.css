@@ -14,6 +14,7 @@ a {
 }
 
 .responsive-image {
+  margin-top: 5%;
   height: auto;
   width: 60%;
   max-width:720px;
