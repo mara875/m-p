@@ -2,8 +2,8 @@
 
 .body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
-  align = center;
-  display=flex;
+  align: center;
+  display: flex;
 	color:#485365;
 	margin:0px;
 }
@@ -11,8 +11,8 @@
 .responsive-image {
   height: auto;
   width: 80%;
-  align = center;
-  display = flex;
+  align: center;
+  display: flex;
 }
   
   
