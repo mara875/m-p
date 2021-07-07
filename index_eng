@@ -15,15 +15,25 @@
 	</head>
 	<body>
 		<img src="images/lettering.png" border=0 class="responsive-image" alt="Null" align="center" display="flex">
+		<p><br><iframe src="https://free.timeanddate.com/countdown/i7vqrp98/n227/cf11/cm0/cu4/ct1/cs1/ca0/co0/cr0/ss0/cac666/cpc666/pct/tcfff/fn3/fs100/szw256/szh108/iso2021-07-31T16:00:00" allowtransparency="true" frameborder="0" width="84" height="15"></iframe><br></p>
 
 		<div class="container">
 			<p align="center">
 				<br>We are getting married! <br><br>We would love you to join the <a href="https://media.giphy.com/media/zsx2mLCrt2WsmBQNAs/giphy.gif" target="_blank">live stream</a> (we will update the link short before the event) 
 				of our church wedding on <br><br><b>Saturday, 31 July<br>16:00 – 17:00 (Mexico City Time)<br>23:00 – 00:00 (Berlin Time)</b>
+				
+				<p><br><br><br>
+					<button id="customAddToCalendar">Add to Calendar</button>
+					<br><a href="https://add.eventable.com/events/533e7eba6a26df16a1bcb445/535548006a26df5c73d767aa/" data-event="535548006a26df5c73d767aa" class="eventable-link" target="_blank" data-key="533e7eba6a26df16a1bcb445" data-target="customAddToCalendar" style="display:none">Add to Calendar</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
+				</p>
+				
 				<br><br>We also invite you to join a <a target="_blank" href="https://media.giphy.com/media/zsx2mLCrt2WsmBQNAs/giphy.gif">video call</a> with everyone else who's watching.
+				
 				<br><br>Apart from that, if despite the postponement of the crazy party you would like to support our future plans, you can find a donate button below. 
 				Every cent will help us move forward with establishing ourselves in one of our home countries (tbd) - plus half of your contributions will be donated to 
 				<a href="https://caritassanluispotosi.org/programas/cchm/" target="_blank">Casa de la Caridad Hogar del Migrante</a> in San Luis Potosi.
+				
 				<br><br>Last but not least, we would like to <b>thank you for raising us, for accompanying us until this special day, for your friendship, for being there for us</b>.
 				Therefore, we would love to see you as well online and thus be glad if you <a href="https://calendly.com/mp31721/ww" target="_blank">book a time slot</a> for the following day so we can hear how you’ve been.
 
@@ -31,11 +41,10 @@
 	
 				<br><br> Mara & Peter
 			</p>
-			<p><br><iframe src="https://free.timeanddate.com/countdown/i7vqrp98/n227/cf11/cm0/cu4/ct1/cs1/ca0/co0/cr0/ss0/cac666/cpc666/pct/tcfff/fn3/fs100/szw256/szh108/iso2021-07-31T16:00:00" allowtransparency="true" frameborder="0" width="84" height="15"></iframe><br>
-
-			<br><br><br><button id="customAddToCalendar">Add to Calendar</button>
-
-			<br><a href="https://add.eventable.com/events/533e7eba6a26df16a1bcb445/535548006a26df5c73d767aa/" data-event="535548006a26df5c73d767aa" class="eventable-link" target="_blank" data-key="533e7eba6a26df16a1bcb445" data-target="customAddToCalendar" style="display:none">Add to Calendar</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://plugins.eventable.com/eventable.js";fjs.parentNode.insertBefore(js, fjs);}}(document, "script", "eventable-script");</script>
-			</p>
+			
+			<p><br><form action="https://www.paypal.com/donate" method="post" target="_blank" display="flex" align="center">
+				<input type="hidden" name="hosted_button_id" value="KB75VAF6WYJVE" />
+				<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+				<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" display="flex" align="center"/>
+			</form></p>
 		</div>
