@@ -10,9 +10,9 @@ body {
 }
 
 #customAddToCalendar {
-  background: green;
+  background: transparent;
   padding: 10px 32px;
-  color: white;
+  color: #485365;
   cursor: pointer;
 }
 * {
