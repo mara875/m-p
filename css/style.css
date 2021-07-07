@@ -9,6 +9,9 @@ body {
   margin-right:auto;
 }
 
+select.inputstyle {
+   text-align:left;
+  
 #customAddToCalendar {
   background: transparent;
   padding: 10px 32px;
