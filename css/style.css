@@ -9,6 +9,16 @@ body {
   margin-right:auto;
 }
 
+#customAddToCalendar {
+  background: green;
+  padding: 10px 32px;
+  color: white;
+  cursor: pointer;
+}
+* {
+  text-align: center;
+}
+
 a {
   color: #485365;
 }
