@@ -19,6 +19,11 @@ body {
   text-align: center;
 }
 
+p {
+  hyphens: auto;
+  text-align: justify;
+}
+
 a {
   color: #485365;
 }
