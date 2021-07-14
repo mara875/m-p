@@ -57,7 +57,7 @@ a {
 .footnote {
   font-size: smaller;
   overflow-wrap: break-word;
-  opacity: 60%;
+  opacity: 0.6;
 }
 
 </style>
