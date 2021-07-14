@@ -21,7 +21,7 @@ body {
 
 p {
   hyphens: auto;
-  text-align: justify;
+  /* text-align: justify; */
   margin-bottom: 1em;
 }
 
