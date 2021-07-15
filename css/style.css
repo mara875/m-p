@@ -38,7 +38,7 @@ a {
   display: inline-flex;
   justify-content: center; /* center the content horizontally */
   align-items: center; /* center the content vertically */
-  /* --padding-x: 1.2em; */
+  --padding-x: 1.2em;
   border-color: transparent; /* hide button border */
 }
 
