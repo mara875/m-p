@@ -69,7 +69,7 @@ a {
 
 .footnote {
     font-size: smaller;
-    overflow-wrap: break-word;
+    /*overflow-wrap: break-word;*/
     opacity: 0.6;
     margin-top: 5em;
     /*display: table;
