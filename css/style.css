@@ -68,7 +68,7 @@ a {
 }
 
 p span {
-    /*font-size: smaller;*/
+    font-size: smaller;
     /*overflow-wrap: break-word;*/
     opacity: 0.6;
     /*margin-top: 5em;*/
