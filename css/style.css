@@ -67,15 +67,13 @@ a {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
 }
 
-p.bottom {
-  span {
-    /*font-size: smaller;
+.footnote {
+    font-size: smaller;
     overflow-wrap: break-word;
     opacity: 0.6;
-    margin-top: 5em;*/
-    display: table;
-    padding: 1px 8px;
-  }
+    margin-top: 5em;
+    /*display: table;
+    padding: 1px 8px;*/
 }
 
 .hide {
