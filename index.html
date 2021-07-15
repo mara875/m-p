@@ -19,26 +19,27 @@
 		  	<option value="es">Español</option>
 			<option value="de">Deutsch</option>
 		</select>
-	<p></p>
-	<iframe id="contents" border="none" width="100%" height="100%" frameborder="0" onload="this.width=screen.width;this.height=screen.height;" src="https://mara875.github.io/peter562/index_en.html" >
-			<p>Your browser does not support iframes.</p>
-	</iframe>
-	<script>
-		function loadlang()
-		  {
-		  var lng = document.getElementById("langselector").value;
-		  var cnt = document.getElementById("contents");
-		  switch (lng)
-		    {
-		    case "en":
-		      cnt.src = "https://mara875.github.io/peter562/index_en.html";
-		    break;
-		    case "es":
-		      cnt.src = "https://github.com/mara875/peter562/blob/70df2119eb2cc44050e65fd411b134263c4d0129/index_esp";
-		    break;
-		    case "de":
-		      cnt.src = "https://github.com/mara875/peter562/blob/034d5201f84c471c51e147d9efcfeb8c3e1d1879/index_deu";
-		    break;
-		    }
-		  }
-	</script>
+		<p></p>
+		<iframe id="contents" border="none" width="100%" height="100%" frameborder="0" onload="this.width=screen.width;this.height=screen.height;" src="https://mara875.github.io/peter562/index_en.html" >
+				<p>Your browser does not support iframes.</p>
+		</iframe>
+		<script>
+			function loadlang()
+			  {
+			  var lng = document.getElementById("langselector").value;
+			  var cnt = document.getElementById("contents");
+			  switch (lng)
+			    {
+			    case "en":
+			      cnt.src = "https://mara875.github.io/peter562/index_en.html";
+			    break;
+			    case "es":
+			      cnt.src = "https://github.com/mara875/peter562/blob/70df2119eb2cc44050e65fd411b134263c4d0129/index_esp";
+			    break;
+			    case "de":
+			      cnt.src = "https://github.com/mara875/peter562/blob/034d5201f84c471c51e147d9efcfeb8c3e1d1879/index_deu";
+			    break;
+			    }
+			  }
+		</script>
+	</body>
