@@ -26,6 +26,7 @@ p {
   /* text-align: justify; */
   margin-bottom: 0.5em;
   margin-top: 0.5em;
+  white-space: pre-line;
 }
 
 a {
