@@ -69,12 +69,12 @@ a {
 
 p.bottom {
   span {
-  font-size: smaller;
-  overflow-wrap: break-word;
-  opacity: 0.6;
-  margin-top: 5em;
-  display: table;
-  padding: 1px 8px;
+    /*font-size: smaller;
+    overflow-wrap: break-word;
+    opacity: 0.6;
+    margin-top: 5em;*/
+    display: table;
+    padding: 1px 8px;
   }
 }
 
