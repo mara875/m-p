@@ -67,7 +67,7 @@ a {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
 }
 
-.bottom {
+p.bottom {
   span {
   font-size: smaller;
   overflow-wrap: break-word;
