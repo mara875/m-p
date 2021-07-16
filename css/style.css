@@ -5,8 +5,8 @@ body {
   align: center;
   display: flex;
   color:#485365;
-  /*margin-left: auto;
-  margin-right:auto;*/
+  margin-left: auto;
+  margin-right:auto;
   scrolling: yes;
   /*overflow: hidden;*/
   overflow-x: hidden;
@@ -59,11 +59,11 @@ a {
 }
   
 .container {
-  /* width: 640px; */
+  width: 640px;
   color:#485365;
   max-width:80%;
-  /*margin-left: auto;
-  margin-right:auto;*/
+  margin-left: auto;
+  margin-right:auto;
   align: center;
   display: flex;
   justify-content: center;
