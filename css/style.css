@@ -1,6 +1,12 @@
 <style type="text/css">
 
-body {
+html { 
+  overflow: hidden;
+  overflow-x: hidden;
+  position: fixed;
+}
+
+  body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
   align: center;
   display: flex;
