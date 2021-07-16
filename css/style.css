@@ -8,9 +8,10 @@ body {
   margin-left: auto;
   margin-right:auto;
   scrolling: yes;
-  /*overflow: hidden;*/
+  overflow: hidden;
   overflow-x: hidden;
   max-width:80%;
+  position: fixed;
 }
 
 #customAddToCalendar {
