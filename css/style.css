@@ -119,6 +119,13 @@ ul.no-bullets {
 }
 </style>
 
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
+
 /*#hold_my_iframe { 
   padding:0px; 
   margin:0 auto; 
