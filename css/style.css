@@ -13,8 +13,8 @@ body {
 }
 
 iframe {
-        overflow:hidden;
-    }
+  overflow:hidden;
+}
 
 #customAddToCalendar {
   background: transparent;
