@@ -1,4 +1,7 @@
 <style type="text/css">
+html {
+  overflow: hidden;
+}
 
 body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
@@ -12,6 +15,16 @@ body {
   overflow-x: hidden;
 }
 
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
 iframe {
   overflow:hidden;
 }
