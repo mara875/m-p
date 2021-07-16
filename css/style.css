@@ -1,10 +1,10 @@
 <style type="text/css">
 
-html { 
+/*html { 
   overflow: hidden;
   overflow-x: hidden;
   position: fixed;
-}
+}*/
 
   body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
@@ -13,7 +13,7 @@ html {
   color:#485365;
   margin-left: auto;
   margin-right:auto;
-  scrolling: yes;
+  scrolling: no;
   overflow: hidden;
   overflow-x: hidden;
   max-width:80%;
