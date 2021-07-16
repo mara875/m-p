@@ -66,6 +66,7 @@ a {
   justify-content: center;
   flex-wrap: wrap;
   align-items: baseline;
+  overflow-x: hidden;
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
 }
 
