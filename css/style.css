@@ -79,7 +79,7 @@ a {
   margin-right:auto;*/
   align: center;
   display: flex;
-  position: relative;
+  position: absolute;
   overflow: hidden;
   width: 100%;
   justify-content: center;
