@@ -9,6 +9,7 @@ body {
   margin-right:auto;
   scrolling: no;
   overflow: hidden;
+  overflow-x: hidden;
 }
 
 #customAddToCalendar {
