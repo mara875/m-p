@@ -72,11 +72,11 @@ a {
 }
   
 .container {
-  /*width: 640px;*/
+  width: 640px;
   color:#485365;
-  /*max-width:80%;
+  max-width:80%;
   margin-left: auto;
-  margin-right:auto;*/
+  margin-right:auto;
   align: center;
   display: flex;
   position: relative;
