@@ -13,9 +13,9 @@
   color:#485365;
   margin-left: auto;
   margin-right:auto;
-  scrolling: no;
+  /*scrolling: no;
   overflow: hidden;
-  overflow-x: hidden;
+  overflow-x: hidden;*/
   max-width:80%;
   position: fixed;
   margin:0;
