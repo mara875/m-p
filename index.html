@@ -1,56 +1,58 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html >
 	<head>
 		<meta charset="UTF-8">
-		<meta name="description" content=".... ">
-  		<meta name="keywords" content="Mara&Peter, liebe, amorsito, kuchipú, hochzeit, wedding, boda">
-  		<meta name="author" content="Mara Gomez & Peter Ebbinghaus">
-  		<meta name="robots" content="noindex">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Mara&Peter, liebe, amorsito, kuchipú, hochzeit, wedding, boda">
+    <meta name="author" content="Mara Gomez & Peter Ebbinghaus">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<title>Mara & Peter 31.07.2021</title>
 	
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style2.css">
 
 	</head>
 	<body>
-	        <!-- <div class="container"> -->
-
-			<select id="langselector" onchange="loadlang()" align="center">
-				<option value="en">English</option>
-				<option value="es">Español</option>
-				<option value="de">Deutsch</option>
-			</select>
-			<p></p>
-
-                <div class="container">
-                  <!--replace div by table to get rid of scroll bars-->
-                  <!--<table border=0 cellspacing=0 cellpadding=0 id="hold_iframe">-->
-			<iframe scrolling="auto" id="contents" border="none" width="100%" height="100%" frameborder="0" onload="this.width=screen.width;this.height=screen.height;" src="https://mara875.github.io/peter562/index_en.html">
-			<!--scrollbars test: <iframe scrolling="yes" id="contents" iframe width=100% height=100% marginwidth=0 marginheight=0 frameborder=0 onload="this.width=screen.width;this.height=screen.height;" src="https://mara875.github.io/peter562/index_en.html" >-->
-				<p>Your browser does not support iframes.</p>
-			</iframe>
-                  
-			<script>
-				function loadlang()
-				  {
-				  var lng = document.getElementById("langselector").value;
-				  var cnt = document.getElementById("contents");
-				  switch (lng)
-				    {
-				    case "en":
-				      cnt.src = "https://mara875.github.io/peter562/index_en.html";
-				    break;
-				    case "es":
-				      cnt.src = "https://mara875.github.io/peter562/index_es.html";
-				    break;
-				    case "de":
-				      cnt.src = "https://mara875.github.io/peter562/index_de.html";
-				    break;
-				    }
-				  }
-			</script>
-                  <!--</table>-->
-		</div>
-	</body>
+        <div class="container" align="center" display="flex">
+            <!--<div class="child">-->
+                 <img width=100% src="images/lettering.png" border=0 class="responsive-image" alt="Null" align="center" display="flex">
+                 <!-- <iframe src="https://giphy.com/embed/zsx2mLCrt2WsmBQNAs" width="60%" aligh="center" style="position:relative;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
+        <div class="container">
+           <div class="column-center">
+                <a class="link" href="https://mara875.github.io/peter562/index_es.html">
+                    <span class="mask">
+                        <div class="link-container">
+                          <span class="link-title1 title">Español</span>
+                          <span class="link-title2 title">Español</span>
+                        </div>
+                    </span>
+                </a>
+            </div>
+           <div class="column-left">
+                <a class="link" href="https://mara875.github.io/peter562/index_de.html">
+                        <span class="mask">
+                            <div class="link-container">
+                              <span class="link-title1 title">Deutsch</span>
+                              <span class="link-title2 title">Deutsch</span>
+                            </div>
+                        </span>
+                </a>
+           </div>
+           <div class="column-right">
+                <a class="link" href="https://mara875.github.io/peter562/index_en.html">
+                    <span class="mask">
+                        <div class="link-container">
+                          <span class="link-title1 title">English</span>
+                          <span class="link-title2 title">English</span>
+                        </div>
+                    </span>
+                </a>
+           </div>
+        </div>
+            <!--<p><br><b>
+                <a href="https://mara875.github.io/peter562/index_es.html"> Español </a> <a href="https://mara875.github.io/peter562/index_de.html"> Deutsch </a> <a href="https://mara875.github.io/peter562/index_en.html"> English </a>
+            </b></p>-->
+        </div>
+  </body>
+</html>
