@@ -37,9 +37,11 @@ body {
 }
 * {
   text-align: center;
+/*
   /* no scrollbar outside I frame */
   margin: 0;
   padding: 0;
+*/
 }
 
 /* id to get rid of double scroll bars*/
