@@ -3,7 +3,7 @@
 body {
   font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
   align: center;
-  /*display: flex;*/
+  display: flex;
   color:#485365;
   margin-left: auto;
   margin-right:auto;
