@@ -17,9 +17,9 @@ body {
   text-align: center;
 }
 
-/*body, html {
+body, html {
   overflow: hidden;
-}*/
+}
 
 /*iframe {
   overflow:hidden;
