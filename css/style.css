@@ -17,9 +17,11 @@ body {
   text-align: center;
 }
 
+/*
 body, html {
   overflow: hidden;
 }
+*/
 
 /*iframe {
   overflow:hidden;
