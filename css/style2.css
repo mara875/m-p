@@ -22,7 +22,7 @@
   transform: translate(0, -50%);
 }*/
 
-.column-left{ float: left; width: 25%; min-width: 25%; padding: 4%;}
+.column-left{ text-align: left; float: left; width: 25%; min-width: 25%; padding: 4%;}
 .column-right{ float: right; width: 25%; min-width: 25%; padding: 4%;}
 .column-center{ display: inline-block; width: 25%; min-width: 25%; padding: 4%;}
 
