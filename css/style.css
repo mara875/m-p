@@ -253,3 +253,8 @@ ul.no-bullets {
 .fadeIn-right{
   left: 80%;
 }
+
+perfundo('.perfundo', {
+  disableHistory: true,
+  swipe: true
+});
